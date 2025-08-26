@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { CheckCircle, BrainCircuit, ChevronDown, ChevronUp } from 'lucide-react';
 
 import multidisciplinaryIcon from '../assets/Multi.png';
-import clientCenteredIcon from '../assets/Individual.png';
+import clientCenteredIcon from '../assets/individual.png';
 import groupTherapyIcon from '../assets/Group.png';
 
 
