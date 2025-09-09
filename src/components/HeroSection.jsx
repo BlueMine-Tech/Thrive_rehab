@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { ArrowRight } from 'lucide-react'
 import { useState, useEffect } from 'react'
-import heroimg from '../assets/heroimg.png' 
+import heroimg from '../assets/heroimg.jpg' 
 
 export default function HeroSection() {
   const [displayedText, setDisplayedText] = useState('')
