@@ -47,8 +47,8 @@ export default function TeamSection() {
       textColor: 'text-blue-600',
       image: nazreen,
       expertise: [
-        "Speech and Language Therapy for all age groups",
-        "Audiology (Cochlear Implant therapy/ Hearing Impaired therapy)",
+        "Speech and Language assessment and Therapy for all age groups",
+        "Audiology (Cochlear Implant therapy/Therapy for Hearing Impaired )",
         "Alternative and Augmentative Communication (AAC)",
         "Hearing Aid Dispensing and Programming"
       ]
@@ -143,7 +143,7 @@ export default function TeamSection() {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
         </svg>
       ),
-      description: 'is our Consultant Speech Therapist who specializes in preventing, assessing, diagnosing, and treating difficulties related to speech, language, communication, voice, and swallowing in both children and adults. She provides tailored interventions to improve communication skills and quality of life.',
+      description: 'is our Consultant Speech Therapist who specializes in , assessing, and treating child language and swallowing  disorders in both children and adults.',
       color: 'bg-emerald-100',
       textColor: 'text-emerald-600',
       image: pavithra,
@@ -162,7 +162,7 @@ export default function TeamSection() {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
         </svg>
       ),
-      description: 'is  specialises in treating children and adults with neurogenic language disorders such as aphasia, dysarthria, and dysphagiaShe is currently working at sri ramachandra institute of higher education and research.',
+      description: 'is  specialises in treating children and adults with neurogenic language disorders such as aphasia, dysarthria, and dysphagia',
       color: 'bg-violet-100',
       textColor: 'text-violet-600',
       image: sahin,
@@ -182,7 +182,7 @@ export default function TeamSection() {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
         </svg>
       ),
-      description: 'certified SLP with expertise in assessing and treating voice and fluency changes in both adults and children. She is currently pursuing her PhD in Voice. She  has published several articles on voice therapy, particularly focusing on professional voice users.',
+      description: ' is a certified SLP with expertise in assessing and treating voice and fluency changes in both adults and children. She is currently pursuing her PhD in Voice. She  has published several articles on voice therapy, particularly focusing on professional voice users.',
       color: 'bg-indigo-100',
       textColor: 'text-indigo-600',
       image: sushmitha,
