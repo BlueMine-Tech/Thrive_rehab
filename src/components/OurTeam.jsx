@@ -190,7 +190,7 @@ export default function TeamSection() {
         "Voice therapy for adults and children",
         "Treatment of fluency disorders",
         "Professional voice training",
-        "Specialized training for professional voice users (singers, teachers, public speakers"
+        "Specialized training for professional voice users (singers, teachers, public speakers)"
       ]
     }
   ];
