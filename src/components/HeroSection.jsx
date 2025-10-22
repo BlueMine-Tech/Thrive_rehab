@@ -8,7 +8,7 @@ export default function HeroSection() {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [showCursor, setShowCursor] = useState(true)
   
-  const fullText = "We empower Children and Adults with special needs"
+  const fullText = "We empower Children and Adults with diverse abilities"
   const typingSpeed = 80 // milliseconds per character
   
   useEffect(() => {
